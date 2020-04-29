@@ -1,0 +1,76 @@
+<form>
+  <label>Processing Metrics</label>
+  <fieldset submitButton="false">
+    <input type="time" token="field1">
+      <label></label>
+      <default>
+        <earliest>-24h@h</earliest>
+        <latest>now</latest>
+      </default>
+    </input>
+  </fieldset>
+  <row>
+    <panel>
+      <single>
+        <title>Audio Files Processed</title>
+        <search>
+          <query>index=main sourcetype=speechmatics:* "Your transcription" | rex field=_raw ".*job\s+\[\s+(?&lt;jobid&gt;\d+)" | stats count</query>
+          <earliest>$field1.earliest$</earliest>
+          <latest>$field1.latest$</latest>
+          <refresh>30s</refresh>
+          <refreshType>delay</refreshType>
+        </search>
+        <option name="drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </single>
+    </panel>
+    <panel>
+      <table>
+        <title>Completed Jobs</title>
+        <search>
+          <query>index=main sourcetype=speechmatics:* "Your transcription" 
+| rex field=_raw ".*job\s+\[\s+(?&lt;jobid&gt;\d+)" 
+| append 
+    [ search index=speechmatics ".*" 
+    | rex field=source ".*Output\/(?&lt;audio_file&gt;.*)" 
+    | eval jobid=mvdedup('job.id')
+        ] 
+| stats values(_time) as time, values(audio_file) as audio_file by jobid 
+| eval time=min(time) 
+| eval time=strftime(time, "%Y-%m-%d %H:%M:%S") 
+| table time,audio_file,jobid</query>
+          <earliest>$field1.earliest$</earliest>
+          <latest>$field1.latest$</latest>
+          <sampleRatio>1</sampleRatio>
+          <refresh>1m</refresh>
+          <refreshType>delay</refreshType>
+        </search>
+        <option name="count">20</option>
+        <option name="dataOverlayMode">none</option>
+        <option name="drilldown">none</option>
+        <option name="percentagesRow">false</option>
+        <option name="refresh.display">progressbar</option>
+        <option name="rowNumbers">false</option>
+        <option name="totalsRow">false</option>
+        <option name="wrap">true</option>
+      </table>
+    </panel>
+    <panel>
+      <table>
+        <title>Previous or Current Jobs</title>
+        <search>
+          <query>| curl url="http://18.208.2.242:8082/v1/user/1/jobs/" 
+| rex field=jobs mode=sed "s/\\\"/APOST/g" 
+| rex field=jobs ".*job_statusAPOST:APOST(?&lt;job_status&gt;\w+)APOST.*APOSTidAPOST:(?&lt;job_id&gt;\d+)" 
+| table job_id,job_status</query>
+          <earliest>$field1.earliest$</earliest>
+          <latest>$field1.latest$</latest>
+          <refresh>1m</refresh>
+          <refreshType>delay</refreshType>
+        </search>
+        <option name="drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </table>
+    </panel>
+  </row>
+</form>

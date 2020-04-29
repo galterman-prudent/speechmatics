@@ -1,0 +1,66 @@
+<panel>
+  <title>Splunk File Upload Button in Dashboard</title>
+  <html>
+         <style>
+         #uploadPanel{
+           width: 20% !important;
+           float: right;
+         }
+         .type-btn .stroke {
+             stroke: #65a637;
+             stroke-width: 2px;
+         }
+         .type-btn {
+             display: block;
+             margin: 0 auto 10px;
+             padding: 10px 0 5px;
+             cursor: pointer;
+             width: 220px;
+             border-radius: 4px;
+         }
+         #top {
+             background: #fff;
+             padding-bottom: 40px;
+         }
+         .type-container {
+             display: inline-block;
+             text-align: center;
+             width: 350px;
+             margin-left: -55px;
+             vertical-align: top;
+         }
+         .type-btn svg {
+             fill: none;
+         }
+         .type-btn .fill {
+             fill: #65a637;
+         }
+         .type-text1 {
+             color: #65a637;
+             font-size: 20px;
+             line-height: 24px;
+         }
+         .type-text2 {
+             color: #65a637;
+             font-size: 11px;
+         }
+         </style>
+         <div class="top">
+           <div class="inner-container">
+             <div class="type-container">
+               <div id="btn-upload" class="type-btn link-wrap" tabindex="0">
+                   <svg xmlns="http://www.w3.org/2000/svg" width="102px" height="102px" viewBox="0 0 102 102" version="1.1">
+                       <circle class="stroke stroke-thick" cx="51" cy="51" r="50"/>
+                       <g class="fill">
+                           <path transform="translate(30.000000, 21.000000)" d="M30,16 L39.5,16 C41.4334271,16 43,17.5665729 43,19.5 L43,48.5 C43,50.4334271 41.4334271,52 39.5,52 L3.5,52 C1.56657288,52 0,50.4334271 0,48.5 L0,19.5 C0,17.5665729 1.56657288,16 3.5,16 L12,16 L12,19 L3.5,19 C3.22342712,19 3,19.2234271 3,19.5 L3,48.5 C3,48.7765729 3.22342712,49 3.5,49 L39.5,49 C39.7765729,49 40,48.7765729 40,48.5 L40,19.5 C40,19.2234271 39.7765729,19 39.5,19 L30,19 L30,16 Z"/>
+                           <polygon transform="translate(42.000000, 21.000000)" points="9.5,0 0,9.5 1.929,11.327 8,5.423 8,32 11,32 11,5.423 16.865,11.432 19,9.5 9.5,0" class="fill"/>
+                       </g>
+                   </svg>
+                   <div class="type-text1">upload</div>
+                   <div class="type-text2">files from my computer</div>
+               </div>
+             </div>
+           </div>
+         </div>  
+       </html>
+</panel>

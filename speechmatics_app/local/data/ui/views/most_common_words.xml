@@ -1,0 +1,89 @@
+<form>
+  <label>Main Panel</label>
+  <fieldset submitButton="false" autoRun="false">
+    <input type="time" token="field1">
+      <label></label>
+      <default>
+        <earliest>-24h@h</earliest>
+        <latest>now</latest>
+      </default>
+    </input>
+    <input type="text" token="tok_text_to_search" searchWhenChanged="true">
+      <label>Containing Following Text</label>
+      <default>.*</default>
+      <initialValue>.*</initialValue>
+    </input>
+  </fieldset>
+  <row>
+    <panel>
+      <table>
+        <title>Transcriptions</title>
+        <search>
+          <query>index=speechmatics "$tok_text_to_search$" | rex field=source ".*Output\/(?&lt;audio_file&gt;.*)"
+| eval min_confidence=min('results{}.alternatives{}.confidence') 
+| eval max_confidence=max('results{}.alternatives{}.confidence') 
+| eval start_time=min('results{}.start_time') 
+| eval end_time=max('results{}.end_time') 
+| eval transcription_time=end_time-start_time 
+| eval content=mvjoin('results{}.alternatives{}.content', " ") 
+| rex field=content mode=sed "s; \.;.;g" 
+| rex field=content mode=sed "s; \,;,;g" 
+| rex field=content mode=sed "s;\.\.;.;g" | eval content=substr(content,1,30) | eval job_id=mvdedup('job.id')
+| table job_id audio_file content start_time, end_time, transcription_time, min_confidence, max_confidence</query>
+          <earliest>$field1.earliest$</earliest>
+          <latest>$field1.latest$</latest>
+        </search>
+        <option name="drilldown">row</option>
+        <option name="refresh.display">progressbar</option>
+        <drilldown>
+          <set token="selected_jobid">$click.value$</set>
+        </drilldown>
+      </table>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <table>
+        <title>Most Common Words</title>
+        <search>
+          <query>index=speechmatics job.id=$selected_jobid$
+| eval content='results{}.alternatives{}.content' 
+| stats count as N by content 
+| eval word=lower(content) 
+| eval L=len(word) 
+| eval ignore=if(L&lt;=3 OR match(word,"^\.$$|^\,$$|^the$$|^of$$|^to$$|^a$$|^and$$|^be$$|^will$$|^in$$|^from$$|^that$$|^have$$|^with$$|^this$$|^we$$|^as$$|^for$$|^are$$|^at$$|^by$$|^3$$|^with$$|^\?$$"),1,0) 
+| where ignore=0 
+| sort 0 -N 
+| table content N | head 10</query>
+          <earliest>$field1.earliest$</earliest>
+          <latest>$field1.latest$</latest>
+          <sampleRatio>1</sampleRatio>
+        </search>
+        <option name="count">20</option>
+        <option name="dataOverlayMode">none</option>
+        <option name="drilldown">none</option>
+        <option name="percentagesRow">false</option>
+        <option name="refresh.display">progressbar</option>
+        <option name="rowNumbers">false</option>
+        <option name="totalsRow">false</option>
+        <option name="wrap">true</option>
+      </table>
+    </panel>
+    <panel>
+      <table>
+        <search>
+          <query>index=speechmatics job.id=$selected_jobid$
+| eval content=mvjoin('results{}.alternatives{}.content', " ") 
+| rex field=content mode=sed "s; \.;.;g" 
+| rex field=content mode=sed "s; \,;,;g" 
+| rex field=content mode=sed "s;\.\.;.;g" 
+| table content</query>
+          <earliest>$field1.earliest$</earliest>
+          <latest>$field1.latest$</latest>
+        </search>
+        <option name="drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </table>
+    </panel>
+  </row>
+</form>

@@ -1,0 +1,36 @@
+[app/ui]
+version = 7.3.3
+modtime = 1586631627.659283000
+
+[app/launcher]
+version = 7.3.3
+modtime = 1586631627.660569000
+
+[views/most_common_words]
+owner = admin
+version = 7.3.3
+modtime = 1587483068.930012000
+
+[nav/default]
+version = 7.3.3
+modtime = 1587400076.321625000
+
+[props/covid-mp3]
+owner = admin
+version = 7.3.3
+modtime = 1586973107.452690000
+
+[inputs/ftp%3A%2F%2Fmpthree]
+owner = admin
+version = 7.3.3
+modtime = 1586983336.521449000
+
+[panels/splunk_file_upload_button_in_dashboard]
+owner = admin
+version = 7.3.3
+modtime = 1586994730.568989000
+
+[views/processing_metrics]
+owner = admin
+version = 7.3.3
+modtime = 1587486687.584616000

@@ -1,0 +1,2748 @@
+{
+ "format": "2.4",
+ "job": {
+  "created_at": "Tue Apr 21 16:29:08 2020",
+  "duration": 54,
+  "id": 130,
+  "lang": "en",
+  "meta": "",
+  "name": "taken2.mp3",
+  "user_id": 1
+ },
+ "metadata": {
+  "created_at": "2020-04-21T16:38:39.281Z",
+  "transcription_config": {
+   "channel_diarization_labels": [
+    "channel_1",
+    "channel_2"
+   ],
+   "diarization": "channel",
+   "language": "en"
+  },
+  "type": "transcription"
+ },
+ "results": [
+  {
+   "alternatives": [
+    {
+     "confidence": 0.53,
+     "content": "I'll",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.22,
+   "start_time": 3.11,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "take",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.47,
+   "start_time": 3.26,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "one",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.62,
+   "start_time": 3.47,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "of",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.71,
+   "start_time": 3.62,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.49,
+     "content": "those",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.86,
+   "start_time": 3.71,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "little",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 4.1,
+   "start_time": 3.86,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.72,
+     "content": "cats",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 4.61,
+   "start_time": 4.11,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.73,
+     "content": "once",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.1,
+   "start_time": 4.87,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.33,
+     "content": "got",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.24,
+   "start_time": 5.12,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.93,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.38,
+   "start_time": 5.29,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.29,
+     "content": "pips",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.64,
+   "start_time": 5.38,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.66,
+     "content": "on",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.8,
+   "start_time": 5.64,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.7,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.86,
+   "start_time": 5.8,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.76,
+     "content": "top",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.23,
+   "start_time": 5.89,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.23,
+   "is_eos": true,
+   "start_time": 6.23,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "It's",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.95,
+   "start_time": 6.77,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.98,
+   "start_time": 6.95,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.9,
+     "content": "grenade",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.4,
+   "start_time": 6.98,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.4,
+   "is_eos": true,
+   "start_time": 7.4,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.67,
+   "start_time": 7.61,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.96,
+     "content": "want",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.84,
+   "start_time": 7.67,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.95,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.94,
+   "start_time": 7.84,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.06,
+   "start_time": 7.94,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "go",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.21,
+   "start_time": 8.06,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.33,
+   "start_time": 8.21,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.45,
+   "start_time": 8.33,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "balcony",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.96,
+   "start_time": 8.45,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "with",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 9.17,
+   "start_time": 8.96,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.69,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 9.22,
+   "start_time": 9.17,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "grenade",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 9.65,
+   "start_time": 9.22,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 9.65,
+   "is_eos": true,
+   "start_time": 9.65,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.84,
+     "content": "Is",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 12.31,
+   "start_time": 12.18,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.88,
+     "content": "there",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 12.46,
+   "start_time": 12.31,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.98,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 12.52,
+   "start_time": 12.46,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "safe",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 12.79,
+   "start_time": 12.52,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.98,
+     "content": "place",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 13.08,
+   "start_time": 12.79,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.51,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 13.13,
+   "start_time": 13.08,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.48,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 13.23,
+   "start_time": 13.15,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "throw",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 13.54,
+   "start_time": 13.23,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.92,
+     "content": "it",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 13.61,
+   "start_time": 13.54,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "?",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 13.61,
+   "is_eos": true,
+   "start_time": 13.61,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "There's",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 18.36,
+   "start_time": 18.21,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 18.42,
+   "start_time": 18.36,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.9,
+     "content": "parking",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 18.79,
+   "start_time": 18.42,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.87,
+     "content": "garage",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 19.11,
+   "start_time": 18.79,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 19.11,
+   "is_eos": true,
+   "start_time": 19.11,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.53,
+     "content": "Everyone",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 19.67,
+   "start_time": 19.35,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "on",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 19.83,
+   "start_time": 19.68,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "it",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 19.89,
+   "start_time": 19.83,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "?",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 19.89,
+   "is_eos": true,
+   "start_time": 19.89,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.97,
+     "content": "No",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 21.66,
+   "start_time": 21.37,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 21.66,
+   "is_eos": true,
+   "start_time": 21.66,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 22.26,
+   "start_time": 22.2,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.83,
+     "content": "want",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 22.46,
+   "start_time": 22.26,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.83,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 22.56,
+   "start_time": 22.46,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 22.65,
+   "start_time": 22.56,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "pull",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 22.86,
+   "start_time": 22.65,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 22.95,
+   "start_time": 22.86,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "pin",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 23.22,
+   "start_time": 22.95,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.94,
+     "content": "out",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 23.33,
+   "start_time": 23.22,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.94,
+     "content": "of",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 23.43,
+   "start_time": 23.33,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 23.52,
+   "start_time": 23.43,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "grenade",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 23.97,
+   "start_time": 23.52,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 23.97,
+   "is_eos": true,
+   "start_time": 23.97,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Count",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 24.27,
+   "start_time": 24.06,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.38,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 24.36,
+   "start_time": 24.27,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.97,
+     "content": "three",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 24.63,
+   "start_time": 24.36,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "so",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 24.84,
+   "start_time": 24.63,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 24.9,
+   "start_time": 24.84,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 25.05,
+   "start_time": 24.9,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "hear",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 25.23,
+   "start_time": 25.05,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "it",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 25.32,
+   "start_time": 25.23,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 25.32,
+   "is_eos": true,
+   "start_time": 25.32,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.63,
+     "content": "Toss",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 25.89,
+   "start_time": 25.65,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.63,
+     "content": "it",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 26.16,
+   "start_time": 25.97,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "as",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 26.52,
+   "start_time": 26.4,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "far",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 26.7,
+   "start_time": 26.52,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "as",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 26.79,
+   "start_time": 26.7,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 26.85,
+   "start_time": 26.79,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.94,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 27.15,
+   "start_time": 26.85,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 27.15,
+   "is_eos": true,
+   "start_time": 27.15,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Run",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 28.08,
+   "start_time": 27.81,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "back",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 28.29,
+   "start_time": 28.08,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.81,
+     "content": "into",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 28.43,
+   "start_time": 28.29,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.69,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 28.55,
+   "start_time": 28.43,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.36,
+     "content": "wall",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 28.71,
+   "start_time": 28.55,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 28.71,
+   "is_eos": true,
+   "start_time": 28.71,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Keep",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 29.4,
+   "start_time": 29.22,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 29.49,
+   "start_time": 29.4,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "phone",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 29.79,
+   "start_time": 29.49,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.69,
+     "content": "off",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 29.97,
+   "start_time": 29.8,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "so",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 30.21,
+   "start_time": 30.0,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 30.3,
+   "start_time": 30.21,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.58,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 30.45,
+   "start_time": 30.3,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "hear",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 30.6,
+   "start_time": 30.45,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 30.72,
+   "start_time": 30.6,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.87,
+     "content": "explosion",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 31.17,
+   "start_time": 30.72,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 31.17,
+   "is_eos": true,
+   "start_time": 31.17,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.75,
+     "content": "1",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 35.34,
+   "start_time": 34.95,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 35.34,
+   "is_eos": false,
+   "start_time": 35.34,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.71,
+     "content": "2",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 36.57,
+   "start_time": 36.22,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 36.57,
+   "is_eos": false,
+   "start_time": 36.57,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.75,
+     "content": "3",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 37.83,
+   "start_time": 37.53,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 37.83,
+   "is_eos": true,
+   "start_time": 37.83,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.77,
+     "content": "I'll",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 3.2,
+   "start_time": 3.09,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "take",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 3.46,
+   "start_time": 3.25,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "one",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 3.61,
+   "start_time": 3.46,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "of",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 3.7,
+   "start_time": 3.61,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.52,
+     "content": "those",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 3.88,
+   "start_time": 3.7,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "little",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 4.09,
+   "start_time": 3.88,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.7,
+     "content": "cats",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 4.6,
+   "start_time": 4.09,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.66,
+     "content": "once",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.15,
+   "start_time": 4.92,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.15,
+   "is_eos": false,
+   "start_time": 5.15,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.65,
+     "content": "but",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.31,
+   "start_time": 5.19,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.95,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.38,
+   "start_time": 5.32,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.57,
+     "content": "pips",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.71,
+   "start_time": 5.38,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.39,
+     "content": "on",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.83,
+   "start_time": 5.71,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.98,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 5.92,
+   "start_time": 5.83,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "top",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 6.22,
+   "start_time": 5.92,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 6.22,
+   "is_eos": true,
+   "start_time": 6.22,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "It's",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 6.94,
+   "start_time": 6.79,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 7.0,
+   "start_time": 6.94,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.94,
+     "content": "grenade",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 7.4,
+   "start_time": 7.0,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 7.4,
+   "is_eos": true,
+   "start_time": 7.4,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 7.69,
+   "start_time": 7.6,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.95,
+     "content": "want",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 7.86,
+   "start_time": 7.69,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.95,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 7.96,
+   "start_time": 7.86,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 8.05,
+   "start_time": 7.96,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "go",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 8.23,
+   "start_time": 8.05,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 8.35,
+   "start_time": 8.23,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 8.44,
+   "start_time": 8.35,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.52,
+     "content": "balcony",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 8.91,
+   "start_time": 8.57,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "with",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 9.17,
+   "start_time": 8.95,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.54,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 9.22,
+   "start_time": 9.17,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.97,
+     "content": "grenade",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 9.64,
+   "start_time": 9.23,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 9.64,
+   "is_eos": true,
+   "start_time": 9.64,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Is",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 12.31,
+   "start_time": 12.19,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "there",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 12.46,
+   "start_time": 12.31,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 12.52,
+   "start_time": 12.46,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "safe",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 12.79,
+   "start_time": 12.52,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "place",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 13.09,
+   "start_time": 12.79,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.88,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 13.15,
+   "start_time": 13.09,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.7,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 13.24,
+   "start_time": 13.15,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "throw",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 13.54,
+   "start_time": 13.24,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.96,
+     "content": "it",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 13.62,
+   "start_time": 13.54,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "?",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 13.62,
+   "is_eos": true,
+   "start_time": 13.62,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "There's",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 18.37,
+   "start_time": 18.22,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 18.43,
+   "start_time": 18.37,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "parking",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 18.79,
+   "start_time": 18.43,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "garage",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 19.12,
+   "start_time": 18.79,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 19.12,
+   "is_eos": true,
+   "start_time": 19.12,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.44,
+     "content": "Everyone",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 19.61,
+   "start_time": 19.38,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "on",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 19.81,
+   "start_time": 19.66,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.99,
+     "content": "it",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 19.9,
+   "start_time": 19.81,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "?",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 19.9,
+   "is_eos": true,
+   "start_time": 19.9,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.89,
+     "content": "No",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 21.67,
+   "start_time": 21.43,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 21.67,
+   "is_eos": true,
+   "start_time": 21.67,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 22.27,
+   "start_time": 22.18,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.9,
+     "content": "want",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 22.46,
+   "start_time": 22.27,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.9,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 22.54,
+   "start_time": 22.46,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 22.66,
+   "start_time": 22.54,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "pull",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 22.87,
+   "start_time": 22.66,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 22.96,
+   "start_time": 22.87,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "pin",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 23.2,
+   "start_time": 22.96,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "on",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 23.35,
+   "start_time": 23.2,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.97,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 23.53,
+   "start_time": 23.44,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "grenade",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 23.95,
+   "start_time": 23.53,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 23.95,
+   "is_eos": true,
+   "start_time": 23.95,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Count",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 24.25,
+   "start_time": 24.04,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.58,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 24.34,
+   "start_time": 24.25,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.97,
+     "content": "three",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 24.61,
+   "start_time": 24.34,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.9,
+     "content": "so",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 24.81,
+   "start_time": 24.61,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 24.91,
+   "start_time": 24.82,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.95,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 25.06,
+   "start_time": 24.91,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.94,
+     "content": "hear",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 25.29,
+   "start_time": 25.06,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.83,
+     "content": "that",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 25.68,
+   "start_time": 25.55,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.5,
+     "content": "toss",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 26.02,
+   "start_time": 25.74,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 26.02,
+   "is_eos": true,
+   "start_time": 26.02,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "As",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 26.5,
+   "start_time": 26.41,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "far",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 26.71,
+   "start_time": 26.5,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "as",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 26.77,
+   "start_time": 26.71,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "you",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 26.86,
+   "start_time": 26.77,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.67,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 27.14,
+   "start_time": 26.86,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 27.14,
+   "is_eos": false,
+   "start_time": 27.14,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "run",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 28.06,
+   "start_time": 27.85,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "back",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 28.3,
+   "start_time": 28.06,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "into",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 28.48,
+   "start_time": 28.3,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 28.6,
+   "start_time": 28.48,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.36,
+     "content": "room",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 28.77,
+   "start_time": 28.6,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 28.77,
+   "is_eos": true,
+   "start_time": 28.77,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Keep",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 29.41,
+   "start_time": 29.23,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 29.5,
+   "start_time": 29.41,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "phone",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 29.8,
+   "start_time": 29.5,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.5,
+     "content": "off",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 29.98,
+   "start_time": 29.81,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "so",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 30.22,
+   "start_time": 30.01,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 30.28,
+   "start_time": 30.22,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.7,
+     "content": "can",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 30.46,
+   "start_time": 30.28,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "hear",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 30.61,
+   "start_time": 30.46,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 30.7,
+   "start_time": 30.61,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.71,
+     "content": "explosion",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 31.07,
+   "start_time": 30.7,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 31.07,
+   "is_eos": true,
+   "start_time": 31.07,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.82,
+     "content": "1",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 35.33,
+   "start_time": 34.97,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 35.33,
+   "is_eos": false,
+   "start_time": 35.33,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.76,
+     "content": "2",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 36.6,
+   "start_time": 36.19,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 36.6,
+   "is_eos": false,
+   "start_time": 36.6,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.82,
+     "content": "3",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 37.82,
+   "start_time": 37.49,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_2",
+   "end_time": 37.82,
+   "is_eos": true,
+   "start_time": 37.82,
+   "type": "punctuation"
+  }
+ ]
+}

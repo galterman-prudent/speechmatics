@@ -1,0 +1,291 @@
+{
+ "format": "2.4",
+ "job": {
+  "created_at": "Tue Apr 21 16:29:02 2020",
+  "duration": 7,
+  "id": 129,
+  "lang": "en",
+  "meta": "",
+  "name": "sorry_dave.wav",
+  "user_id": 1
+ },
+ "metadata": {
+  "created_at": "2020-04-21T16:38:08.152Z",
+  "transcription_config": {
+   "channel_diarization_labels": [
+    "channel_1",
+    "channel_2"
+   ],
+   "diarization": "channel",
+   "language": "en"
+  },
+  "type": "transcription"
+ },
+ "results": [
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Open",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 0.75,
+   "start_time": 0.48,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 0.84,
+   "start_time": 0.75,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "pod",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.05,
+   "start_time": 0.84,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "bay",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.26,
+   "start_time": 1.05,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "doors",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.67,
+   "start_time": 1.26,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.67,
+   "is_eos": false,
+   "start_time": 1.67,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.64,
+     "content": "help",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.88,
+   "start_time": 1.67,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.88,
+   "is_eos": true,
+   "start_time": 1.88,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I'm",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.27,
+   "start_time": 3.12,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "sorry",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.66,
+   "start_time": 3.27,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.66,
+   "is_eos": false,
+   "start_time": 3.66,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Dave",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 4.23,
+   "start_time": 3.69,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ",",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 4.23,
+   "is_eos": false,
+   "start_time": 4.23,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I'm",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.01,
+   "start_time": 4.83,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "afraid",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.4,
+   "start_time": 5.01,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "I",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.55,
+   "start_time": 5.4,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "can't",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.88,
+   "start_time": 5.55,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "do",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.12,
+   "start_time": 5.88,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "that",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.48,
+   "start_time": 6.12,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.48,
+   "is_eos": true,
+   "start_time": 6.48,
+   "type": "punctuation"
+  }
+ ]
+}

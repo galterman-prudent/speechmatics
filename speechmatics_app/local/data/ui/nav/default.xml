@@ -1,0 +1,9 @@
+<nav search_view="search">
+  <view name="most_common_words" default='true' />
+  <view name="processing_metrics" />
+  <view name="search" />
+  <view name="datasets" />
+  <view name="reports" />
+  <view name="alerts" />
+  <view name="dashboards" />
+</nav>

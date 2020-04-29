@@ -1,0 +1,367 @@
+{
+ "format": "2.4",
+ "job": {
+  "created_at": "Tue Apr 21 16:28:50 2020",
+  "duration": 12,
+  "id": 127,
+  "lang": "en",
+  "meta": "",
+  "name": "mpthreetest.mp3",
+  "user_id": 1
+ },
+ "metadata": {
+  "created_at": "2020-04-21T16:36:44.437Z",
+  "transcription_config": {
+   "channel_diarization_labels": [
+    "channel_1",
+    "channel_2"
+   ],
+   "diarization": "channel",
+   "language": "en"
+  },
+  "type": "transcription"
+ },
+ "results": [
+  {
+   "alternatives": [
+    {
+     "confidence": 0.72,
+     "content": "OK",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 0.95,
+   "start_time": 0.65,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 0.95,
+   "is_eos": true,
+   "start_time": 0.95,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.84,
+     "content": "We",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.23,
+   "start_time": 1.1,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.67,
+     "content": "are",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.38,
+   "start_time": 1.24,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "trying",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.71,
+   "start_time": 1.38,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "this",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 1.86,
+   "start_time": 1.71,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "for",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 2.07,
+   "start_time": 1.86,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "a",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 2.28,
+   "start_time": 2.07,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "second",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 2.7,
+   "start_time": 2.28,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "time",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.27,
+   "start_time": 2.7,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 3.54,
+   "start_time": 3.27,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "test",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 4.14,
+   "start_time": 3.54,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "the",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 4.62,
+   "start_time": 4.44,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "ability",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 5.31,
+   "start_time": 4.62,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "to",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 6.27,
+   "start_time": 5.67,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "upload",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.32,
+   "start_time": 6.72,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.87,
+     "content": "an",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 7.59,
+   "start_time": 7.38,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.91,
+     "content": "MP",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.34,
+   "start_time": 7.77,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.81,
+     "content": "3",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 8.84,
+   "start_time": 8.57,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.97,
+     "content": "file",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 9.41,
+   "start_time": 8.84,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 9.41,
+   "is_eos": true,
+   "start_time": 9.41,
+   "type": "punctuation"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "Hopefully",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 10.53,
+   "start_time": 10.14,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "this",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 10.71,
+   "start_time": 10.53,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "will",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 10.83,
+   "start_time": 10.71,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": "work",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 11.19,
+   "start_time": 10.83,
+   "type": "word"
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 1.0,
+     "content": ".",
+     "language": "en"
+    }
+   ],
+   "channel": "channel_1",
+   "end_time": 11.19,
+   "is_eos": true,
+   "start_time": 11.19,
+   "type": "punctuation"
+  }
+ ]
+}

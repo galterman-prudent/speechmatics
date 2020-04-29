@@ -1,0 +1,7 @@
+{"type": "transcription",
+   "transcription_config": {
+      "diarization": "channel",
+      "channel_diarization_labels": ["channel_1", "channel_2"],
+      "language": "en"
+   }
+}

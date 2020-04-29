@@ -1,0 +1,4 @@
+SPEAKER: channel_1
+I'll take one of those little cats once got the pips on the top. It's a grenade. I want you to go to the balcony with the grenade. Is there a safe place you can throw it? There's a parking garage. Everyone on it? No. I want you to pull the pin out of the grenade. Count to three so I can hear it. Toss it as far as you can. Run back into the wall. Keep the phone off so I can hear the explosion. 1, 2, 3.
+SPEAKER: channel_2
+I'll take one of those little cats once, but the pips on the top. It's a grenade. I want you to go to the balcony with the grenade. Is there a safe place you can throw it? There's a parking garage. Everyone on it? No. I want you to pull the pin on the grenade. Count to three so I can hear that toss. As far as you can, run back into the room. Keep the phone off so I can hear the explosion. 1, 2, 3.
