@@ -20,11 +20,6 @@ owner = admin
 version = 7.3.3
 modtime = 1586973107.452690000
 
-[inputs/ftp%3A%2F%2Fmpthree]
-owner = admin
-version = 7.3.3
-modtime = 1586983336.521449000
-
 [panels/splunk_file_upload_button_in_dashboard]
 owner = admin
 version = 7.3.3
